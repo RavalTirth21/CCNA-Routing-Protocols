@@ -1,4 +1,4 @@
-# 🛣️ EIGRP Routing Practical – Multi-Router Topology
+# 🛣️ EIGRP Routing Practical – Cisco Packet Tracer
 
 ## 📘 Project Overview
 
