@@ -17,7 +17,7 @@ This project demonstrates how to configure **EIGRP (Enhanced Interior Gateway Ro
 
 ## 🖧 Network Topology
 
-![Network Topology](./01-EIGRP-Topology.png)
+![EIGRP Topology](./01-EIGRP-Topology.png)
 
 ---
 
@@ -73,6 +73,6 @@ Router(config-router)#network 20.0.0.0 </code></pre>
 ### ✅ Ping Test Result
 Once EIGRP is configured on all routers, a ping test is conducted to verify end-to-end connectivity.
 
-![Network Topology](./02-EIGRP-Routing-Successful.png)
+![EIGRP Successful Ping](./02-EIGRP-Routing-Successful.png)
 
 🟢 The ping test confirms that EIGRP has successfully enabled communication between hosts across different routers.
