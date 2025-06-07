@@ -27,7 +27,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
 
  <pre><code>router ospf 1
  network 10.0.0.0 0.255.255.255 area 0
- network 40.0.0.0 0.255.255.255 area 0</code><pre>
+ network 40.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
@@ -36,7 +36,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
  <pre><code>router ospf 1
  network 192.168.1.0 0.0.0.255 area 0
  network 10.0.0.0 0.255.255.255 area 0
- network 20.0.0.0 0.255.255.255 area 0</code><pre>
+ network 20.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
@@ -47,7 +47,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
  network 30.0.0.0 0.255.255.255 area 0
  network 40.0.0.0 0.255.255.255 area 0
  network 50.0.0.0 0.255.255.255 area 0
- network 80.0.0.0 0.255.255.255 area 0</code><pre>
+ network 80.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
@@ -56,7 +56,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
  <pre><code>router ospf 1
  network 192.168.2.0 0.0.0.255 area 0
  network 20.0.0.0 0.255.255.255 area 0
- network 30.0.0.0 0.255.255.255 area 0</code><pre>
+ network 30.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
@@ -64,7 +64,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
  
  <pre><code>router ospf 1
  network 50.0.0.0 0.255.255.255 area 0
- network 60.0.0.0 0.255.255.255 area 0</code><pre>
+ network 60.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
@@ -73,7 +73,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
  <pre><code>router ospf 1
  network 192.168.4.0 0.0.0.255 area 0
  network 80.0.0.0 0.255.255.255 area 0
- network 70.0.0.0 0.255.255.255 area 0</code><pre>
+ network 70.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
@@ -84,7 +84,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
  network 60.0.0.0 0.255.255.255 area 0
  network 70.0.0.0 0.255.255.255 area 0
  network 90.0.0.0 0.255.255.255 area 0
- network 120.0.0.0 0.255.255.255 area 0</code><pre>
+ network 120.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
@@ -92,7 +92,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
 
  <pre><code>router ospf 1
  network 90.0.0.0 0.255.255.255 area 0
- network 100.0.0.0 0.255.255.255 area 0</code><pre>
+ network 100.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
@@ -101,7 +101,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
  <pre><code>router ospf 1
  network 192.168.7.0 0.0.0.255 area 0
  network 100.0.0.0 0.255.255.255 area 0
- network 110.0.0.0 0.255.255.255 area 0</code><pre>
+ network 110.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
@@ -110,7 +110,7 @@ This project demonstrates the configuration of **OSPF (Open Shortest Path First)
  <pre><code>router ospf 1
  network 192.168.6.0 0.0.0.255 area 0
  network 110.0.0.0 0.255.255.255 area 0
- network 120.0.0.0 0.255.255.255 area 0</code><pre>
+ network 120.0.0.0 0.255.255.255 area 0</code></pre>
 
 ---
 
