@@ -1,4 +1,4 @@
-# 🧭 OSPF Routing Practical – Multi-Router Network
+# 🧭 OSPF Routing Practical – Cisco Packet Tracer
 
 ## 📘 Project Overview
 
